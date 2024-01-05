@@ -1,0 +1,50 @@
+Assignment: Interactive Recipe Application using Node.js and Vue.js/React.js
+
+Objective: The objective of this assignment is to assess your skills as a full-stack developer with experience in Node.js
+and either Vue.js or React.js. You will be required to build an interactive recipe application that allows users to search for
+recipes, view details, and save their favorite recipes. The assignment will focus on creating a responsive user interface,
+implementing data retrieval from a third-party API, and managing user preferences.
+Requirements:
+
+1. Backend Development
+Create a Node.js server using Express.js MVC.
+Implement RESTful API endpoints to handle recipe search and user preferences.
+Integrate with a third-party API (e.g., Spoonacular API https://spoonacular.com/food-api
+(https://spoonacular.com/food-api)) to fetch recipe data based on user searches.
+Implement user registration and authentication using OAT.
+Store user preferences (e.g., saved recipes) in a database mongodb.
+
+2. Frontend Development
+Choose either React.js for the frontend development.
+Design and implement a user interface that allows users to search for recipes using keywords or filters.
+Display search results with relevant recipe information (e.g., title, image, summary).
+Implement a recipe details page that displays additional information such as ingredients, instructions, and
+nutritional information.
+Allow users to save their favorite recipes and view their saved recipes.
+Implement responsive design and ensure cross-browser compatibility.
+
+3. Additional Requirements
+Use Git for version control and maintain a well-structured repository.
+Write clean, maintainable, and documented code, following best practices and industry standards.
+Implement error handling and provide meaningful error messages to the user.
+Implement loading indicators during API calls and other asynchronous operations.
+Implement pagination or infinite scrolling for search results (optional but recommended).
+Enhance the user experience with features like sorting, filtering, and categorization of recipes (optional).
+Submission Guidelines:
+1. Create a new GitHub repository for your project and commit your code regularly.
+2. Include a README.md file with instructions on how to set up and run your application locally.
+3. Share the GitHub repository with user https://github.com/webledgerBot (https://github.com/webledgerBot) and any
+other relevant information with the evaluator.
+Evaluation Criteria:
+1. Fulfillment of the assignment requirements.
+2. Code quality, including organization, structure, readability, and documentation.
+3. User interface design and responsiveness.
+4. Implementation of server-side functionality and integration with the third-party API.
+5. User authentication and storage of user preferences.
+6. Proper use of version control (Git) and project structure.
+7. Deployment and overall user experience.
+Note:
+You are free to use any additional libraries or frameworks you deem necessary to accomplish the task.
+Feel free to ask any questions for clarification or guidance.
+Please adhere to best practices and industry standards while working on this assignment.
+Plagiarism or using pre-existing projects will result in disqualification
